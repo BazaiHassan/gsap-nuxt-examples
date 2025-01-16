@@ -1,6 +1,20 @@
-# Nuxt Minimal Starter
+# Gsap Nuxt Examples
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project demonstrates how to use GSAP (GreenSock Animation Platform) with Nuxt. Below are the steps to set up and run the project.
+
+## Nuxt Minimal Starter
+
+Look at the [Nuxt documentation](https://nuxt.com/docs) to learn more.
+
+## Setup
+
+Make sure to install dependencies:
+
+### Install GSAP with pnpm
+To install GSAP in your Nuxt project using `pnpm`, run the following command:
+
+```bash
+pnpm add gsap
 
 ## Setup
 
